@@ -1,0 +1,19 @@
+{
+  "name": "rabbitmq-example",
+  "version": "1.0.0",
+  "description": "实现一些工作模式。",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ghter123/rabbitmq-example.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ghter123/rabbitmq-example/issues"
+  },
+  "homepage": "https://github.com/ghter123/rabbitmq-example#readme"
+}
